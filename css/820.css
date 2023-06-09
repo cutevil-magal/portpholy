@@ -210,7 +210,7 @@ body{
 /*---------БЛОК-5-----------*/
 .block5{
     margin: 0px;
-    height: 500px;
+    height: auto;
 }
 .block5__tail1{
     font-family: 'Roboto Mono', monospace;
